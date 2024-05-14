@@ -109,5 +109,7 @@ ul li span:hover{
 footer{
     text-align: center;
     font-weight:400;
-/*     font-size:15px; */
+    font-size:15px;
+    background: linear-gradient(135deg,#153677,#4e085f);
+    color:black;
 }
