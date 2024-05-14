@@ -105,3 +105,9 @@ ul li span{
 ul li span:hover{
     background: #edeef0;
 }
+
+footer{
+    text-align: center;
+    font-weight:400;
+/*     font-size:15px; */
+}
