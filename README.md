@@ -22,7 +22,7 @@ To get a local copy up and running follow these simple steps.
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/task-list-app.git
+    git clone https://github.com/Rahulray12/To-do-App
     ```
 
 2. Navigate to the project directory:
