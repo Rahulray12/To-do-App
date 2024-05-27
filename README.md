@@ -1,5 +1,5 @@
-# Task List Application
-## RAHUL KUMAR RAY
+# TO DO APP 
+
 
 This project is a simple Task List application built using JavaScript. It allows users to add, remove, and mark tasks as completed. The tasks are saved in the browser's local storage, so they persist even after the page is refreshed.
 
