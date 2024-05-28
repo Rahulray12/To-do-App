@@ -93,7 +93,7 @@ ul li span{
     position: absolute;
     right: 0;
     top: 5px;
-    width: 40px;
+    width: 41px;
     height: 40px;
     font-size: 23px;
     color: #555;
@@ -108,8 +108,8 @@ ul li span:hover{
 
 footer{
     text-align: center;
-    font-weight:400;
-    font-size:15px;
+    font-weight:410;
+    font-size:17px;
     background: linear-gradient(135deg,#153677,#4e085f);
     color:black;
 }
